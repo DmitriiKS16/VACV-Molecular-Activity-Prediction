@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+catboost_info/
+log.txt
+DATA/step*.csv
+DATA/step*.npz
